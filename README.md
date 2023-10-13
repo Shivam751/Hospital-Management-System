@@ -1,5 +1,13 @@
 # Hospital Management System
 
+## Contributors
+
+1. [Shivam Raj](https://github.com/Shivam751/)
+2. [Rushil Venkateswar](https://github.com/rv4102/)
+3. [Jatin Gupta](https://github.com/jatin0101/)
+4. [Kushaz Sehgal](https://github.com/kushazsehgal/)
+5. [Aniket Kumar](https://github.com/Ani-Kar/)
+
 ## What is it?
 
 This is a web application written in **Python Flask** and **Bootstrap CSS** with the following features :
@@ -10,7 +18,7 @@ This is a web application written in **Python Flask** and **Bootstrap CSS** with
 
 ## Dependencies
 
-1. ![mysql](https://dev.mysql.com/doc/refman/8.0/en/installing.html)
+1. mysql
 2. python@3.10
 3. All packages in requirements.txt (`python3 -m pip install -r requirements.txt`)
 4. wkhtmltopdf (`sudo apt install wkhtmltopdf`)
